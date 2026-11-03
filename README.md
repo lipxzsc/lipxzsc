@@ -3,7 +3,7 @@
 > **Tecnologia, Suporte Operacional e Desenvolvimento Ágil (Low-Code / Web)**  
 > Um apaixonado por resolver problemas de negócios, criar sistemas funcionais e entender como tudo funciona de ponta a ponta.
 
-📍 **Lages - SC / Remoto** | ♿ **PCD (Fibrose Cística)** | 💼 [Acesse meu Portfólio](https://lipeportfolio.lovable.app/)
+📍 **Lages - SC / Remoto** | 💼 [Acesse meu Portfólio](https://lipeportfolio.lovable.app/)
 
 ---
 
@@ -36,12 +36,9 @@
 ### 📬 Vamos nos conectar?
 
 - 🌐 **Portfólio:** [lipeportfolio.lovable.app](https://lipeportfolio.lovable.app/)
-- 💼 **LinkedIn:** [/in/lipefontana](https://www.linkedin.com/in/lipefontana)
+- 💼 **LinkedIn:** [linkedin.com/in/lipefontana](https://www.linkedin.com/in/lipefontana)
 - 📧 **E-mail:** [lipe.fxp10@gmail.com](mailto:lipe.fxp10@gmail.com)
 
 ---
 
-<p center>
-  <img src="https://github-readme-stats.vercel.app/api?username=lipxzsc&show_icons=true&theme=radial&hide_border=true" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipxzsc&layout=compact&theme=radial&hide_border=true" height="150" alt="Linguagens mais usadas" />
-</p>
+![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lipxzsc&layout=compact&theme=dark)
